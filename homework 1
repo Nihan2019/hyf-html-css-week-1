@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My First Web Page</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+<body>
+  <h1>F.Nihan Akkose</h1>
+  <img src="/home/hyfbe23/Desktop/homework/photo.jpg" class="picture" alt="Nihan Akkose">
+  <ul id="list">
+    <li>Personal Information</li>
+    <li>About Me</li>
+    <li>Education</li>
+    <li>Work Experience</li>
+    <li>Hobbies</li>
+  </ul>
+  <h2>Personal Information</h2>
+    <p class="Nihan">Hi!My name is Fatma Nihan Akkose.I was born on 22/03/1976 in Turkey.</p>
+  <h2>About Me</h2>
+    <p>I am married and I have three children,a son and two daughters.<br>
+      I am originally from Turkey but now I live in Belgium.<br>I love <strong>Belgium</strong>.</p>
+  <h2>Education</h2>
+    <p>I have studied math at university.<br>Currently attending a Web Developer course at Hack Your Future Belgium</p>
+  <a href="https://hackyourfuture.be/" target="_blank">HackyourfutureBelgium</a>
+  
+  <h2>Work Experience</h2>
+    <p>I have worked as a math teacher for 16 years.<br>I will continue my career as a web developer.</p>
+  <h2>Hobbies</h2>
+    <p>Reading<br>Travelling<br>Cooking</p>
+  <h3>Helpful Ideas</h3>
+    <p>The following strategies are really helpful for newlearners:</p>
+     <ul>
+        <li>Spaced practice</li>
+        <li>Interleaving</li>
+        <li>Ask,Explain and Connect</li>
+        <li>Concrete Examples</li>
+        <li>Words and Visuals</li>
+        <li>Retrieval Practice</li>    
+      </ul>
+    <p>These strategies are explained in the video which is accessible through the link below:</p>
+    
+    <a href="http://www.learningscientists.org/videos/" target="_blank">Learning Strategies</a>
+    <h3>Improve your Web Development skills With Hack Your Future in Belgium.</h3>
+    <ul>
+      <li><a href="https://hackyourfuture.be/" target="_blank">Hack Your Future Website</a></li>
+      <li><a href="https://www.facebook.com/HackYFutureBE/" target="_blank">Hack Your Future on Facebook</a></li>
+      <li><a href="https://twitter.com/hackyfuturebe" target="_blank">Hack Your Future on Twitter</a></li>
+    </ul>
+    <table style="width:70%">
+      <caption class="info">Contact Information</caption>
+      <tr> 
+        <th>GSM</th>
+        <th>E-mail</th>
+        <th>Address</th>
+      </tr>
+      <tr>
+        <td>00 32 494 54 16 03</td>
+        <td>fnakkose@hotmail.com</td>
+        <td>Sint Annalaan 1 9300 Aalst</td>
+      </tr>
+    </table> 
+
+
+</body>
+
+</html>
