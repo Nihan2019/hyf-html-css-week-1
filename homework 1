@@ -5,7 +5,7 @@
     <title>My First Web Page</title>
     <link rel="stylesheet" href="style.css">
   </head>
-<body>
+  <body>
   <h1>F.Nihan Akkose</h1>
   <img src="/home/hyfbe23/Desktop/homework/photo.jpg" class="picture" alt="Nihan Akkose">
   <ul id="list">
@@ -60,8 +60,5 @@
         <td>Sint Annalaan 1 9300 Aalst</td>
       </tr>
     </table> 
-
-
-</body>
-
+  </body>
 </html>
